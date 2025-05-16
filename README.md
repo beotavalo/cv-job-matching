@@ -56,3 +56,6 @@ The contents of this repository are licensed under the [MIT License](LICENSE). F
 ## Acknowledgments
 
 This CV job matching system was developed using the Doc2Vec algorithm and is inspired by the field of Natural Language Processing (NLP) and Information Retrieval (IR). We acknowledge the contributions of the open-source community and the libraries used in this project.
+
+## References
+- [Building a Job Skill Matching System with Streamlight: Project 2](https://medium.com/@asfandyar5133/building-a-job-skill-matching-system-with-streamlight-project-2-1d84f42b3850)
